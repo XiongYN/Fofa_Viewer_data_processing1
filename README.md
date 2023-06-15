@@ -1,1 +1,4 @@
 # Fofa_Viewer_data_processing1
+
+将fofa_viewer导出的文件进行处理，提取出可用的IP
+注：将待处理文件放到该文件夹下
